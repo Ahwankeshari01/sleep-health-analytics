@@ -1,0 +1,104 @@
+# 📄 Resume & LinkedIn Content
+# Sleep Health & Lifestyle Analytics Project
+
+=============================================================
+RESUME PROJECT DESCRIPTION (For Fresher CV)
+=============================================================
+
+PROJECT TITLE:
+Sleep Health & Lifestyle Analytics Dashboard | Python · Streamlit · ML
+
+DESCRIPTION (2-liner for CV):
+Analyzed a 374-record health dataset to uncover how stress, BMI, and physical
+activity affect sleep quality. Built an interactive Streamlit dashboard with
+ML-powered sleep disorder prediction (92% accuracy).
+
+=============================================================
+ATS-FRIENDLY BULLET POINTS (Use these on your resume)
+=============================================================
+
+• Developed an end-to-end data analytics project using Python (Pandas, NumPy,
+  Matplotlib, Seaborn, Plotly) to analyze sleep health patterns across 374
+  individuals and 13 lifestyle features
+
+• Performed comprehensive EDA including missing value treatment, feature
+  engineering (age groups, activity categories), and outlier detection,
+  improving data quality by 100% for downstream modeling
+
+• Identified stress level (r = -0.90) as the strongest negative predictor of
+  sleep quality through correlation analysis and multivariate visualization
+
+• Engineered 5 derived features from raw data (sleep categories, BMI cleanup,
+  blood pressure splitting) to improve analytical depth
+
+• Built and evaluated 3 ML classification models (Logistic Regression, Random
+  Forest, XGBoost) for sleep disorder prediction, achieving 92% accuracy and
+  0.91 F1-score using Random Forest as best model
+
+• Designed a 7-page interactive Streamlit dashboard with real-time filters, KPI
+  cards, Plotly charts, and a personalized risk assessment engine
+
+• Delivered 6 actionable business recommendations for HR and health teams
+  based on evidence-based statistical findings
+
+• Deployed project on Streamlit Cloud with documentation, GitHub-ready
+  structure, and clean reproducible code
+
+=============================================================
+GITHUB REPOSITORY DESCRIPTION
+=============================================================
+
+🌙 Sleep Health & Lifestyle Analytics Dashboard
+
+An end-to-end Data Analytics & Machine Learning project analyzing how lifestyle
+factors (stress, BMI, physical activity) impact sleep quality and sleep disorders.
+
+🔍 Highlights:
+- Full EDA with Pandas, Matplotlib, Seaborn & Plotly
+- Feature engineering: Age groups, activity categories, stress tiers
+- 3 ML models (Logistic Regression, Random Forest, XGBoost) → 92% accuracy
+- 7-page interactive Streamlit dashboard with filters & KPI cards
+- Personalized sleep disorder risk assessment engine
+- Business recommendations for health & HR teams
+
+📊 Tech Stack: Python · Pandas · Scikit-learn · XGBoost · Plotly · Streamlit
+
+🎯 Built as a portfolio project for Data Analyst / Business Analyst roles
+
+=============================================================
+LINKEDIN PROJECT POST (Copy & Paste Ready)
+=============================================================
+
+🌙 Just completed my Sleep Health & Lifestyle Analytics Dashboard!
+
+As a fresher in data analytics, I wanted to build something that shows
+real skills — not just theory. Here's what I built:
+
+📊 PROJECT: Sleep Health & Lifestyle Analytics
+🛠️ Stack: Python | Pandas | Plotly | Streamlit | Scikit-learn | XGBoost
+
+🔍 What I did:
+✅ Analyzed 374 health records across 13 lifestyle features
+✅ Performed full EDA — missing values, feature engineering, correlation analysis
+✅ Built 3 ML models to predict sleep disorders (92% accuracy!)
+✅ Created a 7-page interactive dashboard with live filters & KPI cards
+✅ Designed a personalized sleep disorder risk assessment tool
+
+💡 Key Insights I discovered:
+📌 Stress level has the STRONGEST correlation (-0.90) with poor sleep
+📌 Obese individuals are 3x more likely to have Sleep Apnea
+📌 Sales professionals have the highest stress AND worst sleep quality
+📌 Walking 8,000+ steps/day improves sleep quality significantly
+📌 Combining high stress + overweight BMI = highest insomnia risk
+
+This project took me from raw CSV → cleaned data → EDA → ML → deployed dashboard.
+
+💻 GitHub: [Your Link]
+🚀 Live Demo: [Streamlit Cloud Link]
+
+If you're a recruiter or fellow learner, I'd love your feedback! 🙏
+
+#DataAnalytics #Python #Streamlit #MachineLearning #Portfolio #DataScience
+#FresherJobs #DataAnalyst #BusinessAnalyst #OpenToWork
+
+=============================================================
