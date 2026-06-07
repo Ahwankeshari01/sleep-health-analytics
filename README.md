@@ -172,23 +172,19 @@ git push -u origin main
 
 ## 🔗 Links
 
-- 📊 **Live Dashboard:** [Link to Streamlit Cloud]
-- 💻 **GitHub Repo:** [Your Repo URL]
-- 🔗 **LinkedIn Post:** [Your LinkedIn Post]
+- 📊 **Live Dashboard:** [https://sleep-health-analytics-ahun7x6f5edwezss7ajyqt.streamlit.app/]
+- 💻 **GitHub Repo:** [https://github.com/Ahwankeshari01/sleep-health-analytics/]
+
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**  
+Ahwan keshari jena  
 B.Tech Information Technology  
 Data Analyst | Python | SQL | Tableau | Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahwan-keshari-jena-0191a3243/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Ahwankeshari01)
 
 ---
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
