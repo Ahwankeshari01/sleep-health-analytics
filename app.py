@@ -51,7 +51,7 @@ st.markdown("""
 # ─── Load & Clean Data ────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/Sleep_health_and_lifestyle_dataset.csv")
+    df = pd.read_csv("Sleep_health_and_lifestyle_dataset.csv")
     df.columns = [
         "person_id", "gender", "age", "occupation",
         "sleep_duration", "quality_of_sleep", "physical_activity",
